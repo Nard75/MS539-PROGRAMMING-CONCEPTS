@@ -1,0 +1,10 @@
+C:\Users\Aarons\source\repos\labll\bin\Debug\labll.exe.config
+C:\Users\Aarons\source\repos\labll\bin\Debug\labll.exe
+C:\Users\Aarons\source\repos\labll\bin\Debug\labll.pdb
+C:\Users\Aarons\source\repos\labll\obj\Debug\labll.csproj.AssemblyReference.cache
+C:\Users\Aarons\source\repos\labll\obj\Debug\labll.Form1.resources
+C:\Users\Aarons\source\repos\labll\obj\Debug\labll.Properties.Resources.resources
+C:\Users\Aarons\source\repos\labll\obj\Debug\labll.csproj.GenerateResource.cache
+C:\Users\Aarons\source\repos\labll\obj\Debug\labll.csproj.CoreCompileInputs.cache
+C:\Users\Aarons\source\repos\labll\obj\Debug\labll.exe
+C:\Users\Aarons\source\repos\labll\obj\Debug\labll.pdb
